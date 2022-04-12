@@ -1,2 +1,2 @@
-# New-Remote-Depository
-New Remote Depository for tests
+# New-Remote-Repository
+New Remote Repository for tests
